@@ -3,7 +3,7 @@
 *FINISHED VERSION - GT
 * TODO: READ THESE INSTRUCTIONS!
 *
-* The comments in the methods are for clarification. No tricks or riddles.
+* The comments in the meth ods are for clarification. No tricks or riddles.
 *
 * The overall algorithm should not change. Don't focus on improving the runtime. 
 *
