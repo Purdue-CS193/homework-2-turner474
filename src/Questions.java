@@ -1,6 +1,6 @@
 /*
 * CS 193 Homework 3
-*
+*FINISHED VERSION - GT
 * TODO: READ THESE INSTRUCTIONS!
 *
 * The comments in the methods are for clarification. No tricks or riddles.
